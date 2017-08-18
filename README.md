@@ -11,6 +11,7 @@ https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 
 and edited by @m0j0hn - who added the No Jerks policy question
 
+***
 
 1. Do you encourage employees to be their authentic self?
 
